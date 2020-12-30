@@ -3,4 +3,5 @@ voting_data = [{"county":"Arapahoe", "registered_voters": 422829}, {"county": "D
 for i in voting_data:
     for new in i.values():
         print(new)
+
         
