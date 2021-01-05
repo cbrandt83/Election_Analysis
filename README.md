@@ -9,7 +9,7 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 5. Determine the winner of the election based on popular vote.
 
 ## Resources
-* Data Source: election_results.csv
+* Data Source: [election_results](Resources/election_results.csv)
 * Software: Python 3.7.6, Visual Studio Code 1.50.1
 
 ## Summary
@@ -29,9 +29,10 @@ The analysis of the election shows that:
 
 ## Challege Overview
 
-Output the calculations for the elelction audit to the text file [election_analysis](analysis/election_analysis.txt
-) LINK CODE
+Output the calculations for the elelction audit to the text file [election_analysis](analysis/election_analysis.txt) LINK CODE
 
-using code to format the output to look like this ![VBA_Challenge_2017](Resources/VBA_Challenge_2017.png) PIC EXAMPLE CODE
+using code to format the output to look like this ![Mod3ChallengeTxtFileOutput](Resources/Mod3ChallengeTxtFileOutput.png) PIC
+
+Or alternatively, to look like this on a Mac Terminal ![Mod3ChallengeTerminalOutput](Resources/Mod3ChallengeTerminalOutput.png) PIC
 
 ## Challenge Summary
